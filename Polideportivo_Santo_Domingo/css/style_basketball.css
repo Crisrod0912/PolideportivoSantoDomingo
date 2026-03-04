@@ -2,22 +2,21 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #fff;
     color: #333;
-    margin: 0; /* Añade esto si no está ya en style.css */
+    margin: 0; 
 }
 
 .basketball {
     padding: 20px;
-    margin-top: 0; /* Asegúrate de que no haya margen superior */
+    margin-top: 0; 
 }
 
-/* Ajustes específicos para asegurar que no haya margen superior en el artículo */
 #content {
     padding-top: 0;
     margin-top: 0;
 }
 
 header {
-    margin-bottom: 0; /* Asegúrate de que no haya margen inferior */
+    margin-bottom: 0; 
 }
 
 .carousel-inner img {
@@ -92,7 +91,6 @@ header {
     border-color: #2e43ff;
 }
 
-/* General Styles for Sidebar and Footer */
 .sidebar {
     background-color: #ff6600;
 }

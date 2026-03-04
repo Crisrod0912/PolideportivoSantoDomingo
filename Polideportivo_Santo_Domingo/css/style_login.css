@@ -1,13 +1,11 @@
-/* Estilo general para el cuerpo */
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
 }
 
-/* Contenedor para el fondo desenfocado */
 .login-background {
-    position: fixed; /* Asegura que el fondo cubra toda la pantalla */
+    position: fixed; 
     top: 0;
     left: 0;
     width: 100%;
@@ -24,24 +22,22 @@ body {
     height: 100%;
     background: url('../images/img_background_login.png') no-repeat center center;
     background-size: cover;
-    filter: blur(8px); /* Ajusta el desenfoque según sea necesario */
-    z-index: -1; /* Asegura que el fondo esté detrás del contenido */
+    filter: blur(8px); 
+    z-index: -1; 
 }
 
-/* Estilo del navbar */
 .navbar {
     position: relative;
-    z-index: 2; /* Asegura que el navbar esté sobre el fondo desenfocado */
-    background-color: #343a40; /* Gris oscuro */
+    z-index: 2; 
+    background-color: #343a40; 
     padding: 10px;
 }
-/* Asegura que el contenido esté sobre el fondo desenfocado */
+
 .container {
     position: relative;
-    z-index: 1; /* El contenido estará encima del fondo */
+    z-index: 1; 
 }
 
-/* Estilos del card */
 .card {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
