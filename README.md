@@ -2,8 +2,6 @@
 
 This project is based on developing a web application that enables more organized management in a community sports complex (polideportivo), where people can participate in a wide variety of physical activities and exercise options. Through this platform, users can easily access information and complete online registrations for swimming classes, competitions, soccer and basketball training sessions, and many other activities. The main objective is to provide the best possible user experience, encourage healthy lifestyles within the community, and keep users informed in an efficient and accessible way.
 
----
-
 ## ✨ Features
 - 🏠 **Home Section:** Displays an attractive and informative interface when entering the platform, including news and reports about the sports center.
 - 📰 **News Section:** Provides a dedicated section where users can stay informed about updates and announcements related to the sports center.
