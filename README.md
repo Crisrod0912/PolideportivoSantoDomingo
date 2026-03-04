@@ -5,21 +5,21 @@ This project is based on developing a web application that enables more organize
 ---
 
 ## ✨ Features
-- 🏠 Home Section: Displays an attractive and informative interface when entering the platform, including news and reports about the sports center.
-- 📰 News Section: Provides a dedicated section where users can stay informed about updates and announcements related to the sports center.
-- 📩 Contact Section: Includes a contact form that allows users to send messages to the sports center for future response.
-- 🗓️ Available Schedules Section: Shows the available sports disciplines, their respective schedules, and the contact information (email and phone number) of the person in charge.
-- 📅 Events Section: Presents a calendar or record of current and upcoming events organized by the sports center.
-- 🛠️ CRUD Management Section:
+- 🏠 **Home Section:** Displays an attractive and informative interface when entering the platform, including news and reports about the sports center.
+- 📰 **News Section:** Provides a dedicated section where users can stay informed about updates and announcements related to the sports center.
+- 📩 **Contact Section:** Includes a contact form that allows users to send messages to the sports center for future response.
+- 🗓️ **Available Schedules Section:** Shows the available sports disciplines, their respective schedules, and the contact information (email and phone number) of the person in charge.
+- 📅 **Events Section:** Presents a calendar or record of current and upcoming events organized by the sports center.
+- 🛠️ **CRUD Management Section:**
     - Allows admin users to Create, Read, Update, and Delete records related to staff members and sports disciplines.
     - Regular users are able to view this information in table format.
-- ❓ Frequently Asked Questions (FAQ) Section: Provides a section with frequently asked questions to help resolve common doubts quickly.
-- 👤 User Management:
+- ❓ **Frequently Asked Questions (FAQ) Section:** Provides a section with frequently asked questions to help resolve common doubts quickly.
+- 👤 **User Management:**
     - User registration.
     - Login system.
     - User profile administration.
-- 🏆 Class Reservations: Implements a system for booking and managing sports classes and activities.
-- 📱 Responsive Design: Ensures compatibility and optimal visualization across different screen sizes and devices.
+- 🏆 **Class Reservations:** Implements a system for booking and managing sports classes and activities.
+- 📱 **Responsive Design:** Ensures compatibility and optimal visualization across different screen sizes and devices.
 
 ## 🖥️ Technologies Used
 
