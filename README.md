@@ -80,6 +80,6 @@ To run this project locally, you'll need to have the following installed:
 5. 🌐 Access the platform by navigating to `http://localhost/PolideportivoSantoDomingo/Polideportivo_Santo_Domingo/` in your browser.
 
 > [!NOTE]
-> **Project Owner / Developer** 🧑🏻‍💻  
+> **Project Owner / Developer** 👨🏻‍💻  
 >- Cristopher Rodríguez Fernández 
 ***
